@@ -12,15 +12,20 @@ const Stacks = () => (
         imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572104565/react_wii1jw.svg"
       />
       <StackList
+        stackName="React-Native"
+        score="40"
+        imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572104565/react_wii1jw.svg"
+      />
+      <StackList
         stackName="Redux"
         score="50"
         imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572104565/redux_co340h.svg"
       />
-      {/* <StackList
-        stackName="Angular"
-        score="45"
-        imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572104565/angular_zbkgrg.svg"
-      /> */}
+      <StackList
+        stackName="Firebase"
+        score="60"
+        imgLink="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png"
+      />
       <StackList
         stackName="Node"
         score="65"

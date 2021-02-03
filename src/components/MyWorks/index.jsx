@@ -20,16 +20,16 @@ const MyWorks = () => (
           imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1596059864/auto-mart/auta_dpflvw.png"
         />
         <ProjectDiv
-          appLink="https://demeter-ah-frontend-staging.herokuapp.com/"
-          imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572108439/Screen_Shot_2019-10-25_at_10.33.32_AM_o7vila.png"
+          appLink="https://linkedin-justclone.web.app/"
+          imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1612345699/linkedIn_ll03mo.png"
         />
         <ProjectDiv
           appLink="https://online-voting-frontend.herokuapp.com/"
           imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1596061345/auto-mart/voting_zaqz1f.png"
         />
         <ProjectDiv
-          appLink="https://hello-books-deferral-staging.herokuapp.com/"
-          imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572108431/Screen_Shot_2019-10-25_at_9.24.23_AM_iu0hmb.png"
+          appLink="https://justimuzik.web.app/"
+          imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1612345683/justwaves_2_rs9hcq.png"
         />
         <ProjectDiv
           appLink="https://amoskeyz.github.io/Epic-mail/UI/index.html"

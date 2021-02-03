@@ -15,6 +15,10 @@ const Services = () => (
         serviceType="Web Design"
       />
       <ServiceList
+        imgLink="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx3Me-wif6MuxHmt4DD9HtfEMJV-iQI8uWEw&usqp=CAU"
+        serviceType="Mobile Development"
+      />
+      <ServiceList
         imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572096810/webServer_gebmxh.svg"
         serviceType="Web Servers"
       />

@@ -5,7 +5,7 @@ import InfoList from './InfoList';
 const PersonalInfo = () => (
   <div className="personal-info">
     <img
-      src="https://res.cloudinary.com/ddz109stk/image/upload/v1596058734/auto-mart/IMG-20180629-WA0005_tdrdq2.jpg"
+      src="https://res.cloudinary.com/ddz109stk/image/upload/v1612346353/Screenshot_20201118-193905_gf6phr.png"
       alt=""
     />
     <div className="personal-info__bio flex-center">
