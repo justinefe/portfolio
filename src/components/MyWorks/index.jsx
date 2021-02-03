@@ -32,8 +32,8 @@ const MyWorks = () => (
           imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1612345683/justwaves_2_rs9hcq.png"
         />
         <ProjectDiv
-          appLink="https://amoskeyz.github.io/Epic-mail/UI/index.html"
-          imgLink="http://res.cloudinary.com/amoslv/image/upload/v1582806900/i6g9pk96xv69afaytwgq.png"
+          appLink="https://rbot-friends.herokuapp.com/"
+          imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1612386237/edddd_jhh393.png"
         />
         <ProjectDiv
           appLink="https://github.com/justinefe/cyclops-backend"
