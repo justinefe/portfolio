@@ -35,10 +35,11 @@ const MyWorks = () => (
           appLink="https://amoskeyz.github.io/Epic-mail/UI/index.html"
           imgLink="http://res.cloudinary.com/amoslv/image/upload/v1582806900/i6g9pk96xv69afaytwgq.png"
         />
-        {/* <ProjectDiv
-          appLink="https://epic-mail-react-app.herokuapp.com/#/"
-          imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572110587/Screen_Shot_2019-10-26_at_6.21.10_PM_tg3li7.png"
-        />
+        <ProjectDiv
+          appLink="https://github.com/justinefe/cyclops-backend"
+          imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1612348030/cyclopsbackend_llydn2.png"
+        />{' '}
+        {/* 
         <ProjectDiv
           appLink="https://crypto-book-order-app-react.herokuapp.com/"
           imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572110595/Screen_Shot_2019-10-26_at_6.18.56_PM_jisamy.png"
