@@ -24,8 +24,8 @@ const MyWorks = () => (
           imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1612345699/linkedIn_ll03mo.png"
         />
         <ProjectDiv
-          appLink="https://online-voting-frontend.herokuapp.com/"
-          imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1596061345/auto-mart/voting_zaqz1f.png"
+          appLink="https://amazonclon.herokuapp.com/"
+          imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1613979763/samples/ecommerce/amazonecommerce_zxnsoj.jpg"
         />
         <ProjectDiv
           appLink="https://justimuzik.web.app/"
