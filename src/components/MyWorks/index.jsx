@@ -39,11 +39,12 @@ const MyWorks = () => (
           appLink="https://github.com/justinefe/cyclops-backend"
           imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1612348030/cyclopsbackend_llydn2.png"
         />{' '}
-        {/* 
         <ProjectDiv
-          appLink="https://crypto-book-order-app-react.herokuapp.com/"
-          imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572110595/Screen_Shot_2019-10-26_at_6.18.56_PM_jisamy.png"
+          appLink="https://javascripttodos.herokuapp.com/"
+          imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1614091258/javascripttodos_dvlakw.jpg"
         />
+        {/* 
+
         <ProjectDiv imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572110675/Screen_Shot_2019-10-26_at_6.20.09_PM_jnin7m.png" />
         <ProjectDiv
           appLink="https://lyrics-app-react.herokuapp.com/"
