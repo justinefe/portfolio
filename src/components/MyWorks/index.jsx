@@ -43,13 +43,17 @@ const MyWorks = () => (
           appLink="https://javascripttodos.herokuapp.com/"
           imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1614091258/javascripttodos_dvlakw.jpg"
         />
+  <ProjectDiv
+          appLink="https://onburna.herokuapp.com"
+          imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1615281218/cc_2_ls2jj1.png"
+        /><ProjectDiv
+          appLink="https://onburna.herokuapp.com/landing"
+          imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1615281619/jjjj_hvhadf.png"
+        />
         {/* 
 
         <ProjectDiv imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572110675/Screen_Shot_2019-10-26_at_6.20.09_PM_jnin7m.png" />
-        <ProjectDiv
-          appLink="https://lyrics-app-react.herokuapp.com/"
-          imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572110588/Screen_Shot_2019-10-26_at_6.22.22_PM_v4txrg.png"
-        />
+        
         <ProjectDiv
           appLink="https://busha-admin-dashboars-app.herokuapp.com/balances"
           imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572111009/Screen_Shot_2019-10-26_at_6.27.29_PM_mxpny0.png"
