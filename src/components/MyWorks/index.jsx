@@ -50,15 +50,17 @@ const MyWorks = () => (
           appLink="https://onburna.herokuapp.com/landing"
           imgLink="https://res.cloudinary.com/ddz109stk/image/upload/v1615281619/jjjj_hvhadf.png"
         />
-        {/* 
 
-        <ProjectDiv imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572110675/Screen_Shot_2019-10-26_at_6.20.09_PM_jnin7m.png" />
         
         <ProjectDiv
-          appLink="https://busha-admin-dashboars-app.herokuapp.com/balances"
-          imgLink="https://res.cloudinary.com/dflmq4zxb/image/upload/v1572111009/Screen_Shot_2019-10-26_at_6.27.29_PM_mxpny0.png"
-        /> */}
-      </SliderMenu>
+          appLink="https://skul-front.herokuapp.com"
+          imgLink="https://res-console.cloudinary.com/ddz109stk/thumbnails/transform/v1/image/upload//v1616753348/ZGFzYm9hcmRfbnBwcTl3/drilldown"
+        /> 
+  <ProjectDiv
+          appLink="https://lassod-frontend.herokuapp.com/"
+          imgLink="https://res-console.cloudinary.com/ddz109stk/thumbnails/transform/v1/image/upload//v1616753802/ZHJlYW1fb2VxcmZq/drilldown"
+        /> 
+  </SliderMenu>
     </div>
   </div>
 );
